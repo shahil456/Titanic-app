@@ -1,0 +1,6 @@
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.9
+seaborn>=0.13
+streamlit>=1.67
+joblib>=1.6
